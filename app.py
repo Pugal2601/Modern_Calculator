@@ -67,6 +67,14 @@ HTML = """
             <h2>{{ error }}</h2>
         {% endif %}
     </div>
+    <div style="
+        text-align: center;
+        margin-top: 25px;
+        font-size: 11px;
+        color: #9ba9bd;
+    ">
+        Python Calculator v2.0.0 | Developed by Pugal
+    </div>
 </body>
 </html>
 """
